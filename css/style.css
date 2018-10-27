@@ -1,0 +1,98 @@
+.black-background {
+  background-color:#000000;
+  border-radius: 0px;
+}
+.white {color:#ffffff;}
+.bla {
+	color:black;
+
+}
+.custom{
+  margin-top:20px;
+  padding-right:200px;
+}
+.navbar{
+  margin-bottom:0px;
+  border-radius: 0px;
+}
+.customhead{
+  margin-top:15px;
+  padding-left:100px;
+}
+
+.container .jumbotron {
+    border-radius: 0px;
+    margin-top:80px;
+}
+
+.navbar-fixed-top {
+    min-height: 80px;
+    background-color: #851016;
+}
+
+  #welcome-section {
+    padding-top:80px; 
+    height:100vh;
+    color: black; 
+    background-color: #e0e0e0;
+}
+  #projects {
+    padding-top:80px;
+    height:100vh;
+    color: #fff;
+    background-color: #c8c8c8;
+}
+  #profile-link {
+    padding-top:80px;
+    height:100vh;
+    color: #fff; 
+    background-color: #b9afaf;
+}
+
+html, body {
+  position: relative; 
+  height: 100%;
+  background-color: silver;
+}
+.llo {
+	padding-top: 20px;
+	padding-left: 100px;
+	padding-right: 100px;
+	height: 100%;
+	background-color: #e1e6e7;
+}
+.l{
+	height: 100%;
+}
+.textall {
+	text-align: center;
+	font-family: Calibri;
+} 
+
+#section1,#section2,#section3, .container-fluid, .span9
+{
+  height:100%;
+}
+
+.navbar-nav > li{
+  padding-left:0px;
+  padding-right:0px;
+}
+.navbar-nav > li{
+  margin-left: 5px;
+  margin-right:5px;
+}
+
+.center-block {
+  height:30vh;
+}
+
+@media screen and (max-width:500px) {
+  svg {
+    width:50vw;
+    display:inline;
+  }
+  span.glyphicon-leaf {
+    display:inline;
+  }
+}
